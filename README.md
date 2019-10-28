@@ -7,6 +7,6 @@ This repo contains dotfiles I use to set up my PC.
 1. Clone this repo
 2. run `install.sh`.
 
-## Notes
+## Inspiration
 
-- I copied a lot of things from [Zell's dotfiles](https://github.com/zellwk/dotfiles).
+- Thanks to [Zell View](https://zellwk.com) and his [dotfiles repository](https://github.com/zellwk/dotfiles).
