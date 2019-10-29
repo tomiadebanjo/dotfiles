@@ -81,6 +81,10 @@ vscode
 
 source $ZSH/oh-my-zsh.sh
 
+# vscode path
+
+export PATH=$PATH:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin
+
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
