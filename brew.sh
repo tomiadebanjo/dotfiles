@@ -33,6 +33,7 @@ sudo chown -R `id -un` /data/db
 brew install gmp
 brew install grep
 brew install node
+brew install tree
 
 # Install useful binaries.
 brew install git
