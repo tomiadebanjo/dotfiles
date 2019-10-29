@@ -1,0 +1,3 @@
+# Run this command to create symlink for your .zshrc file
+
+ln -s "/Users/oluwatominiyinadebanjo/dotfiles/.zshrc" "/Users/oluwatominiyinadebanjo/.zshrc"
