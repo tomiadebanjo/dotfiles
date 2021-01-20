@@ -34,6 +34,7 @@ brew install gmp
 brew install grep
 brew install node
 brew install tree
+brew install yarn
 
 # Install useful binaries.
 brew install git
@@ -54,6 +55,8 @@ brew cask install skype
 brew cask install slack
 brew cask install visual-studio-code
 brew cask install moom
+brew cask install vlc
+brew cask install ngrok
 
 # Remove outdated versions from the cellar.
 brew cleanup
